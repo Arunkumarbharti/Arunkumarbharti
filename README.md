@@ -1,4 +1,4 @@
-  ![logo](https://github.com/Arunkumarbharti/Arun-kumar/commit/45a88fb6c0da635b32e5d495f684eb2c5243e799)
+![logo]( https://github.com/Arunkumarbharti/Arunkumarbharti/blob/main/istockphoto-1169929038-612x612.jpg)
 <h1 align="center">Hi 👋, I'm Arun kumar</h1>
 <h3 align="center">A passionate data science from India</h3>
  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
